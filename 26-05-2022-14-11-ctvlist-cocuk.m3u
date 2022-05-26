@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:9 tvg-id="Akillitv" tvg-name="Akıllı TV" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/579dbf0e-ec89-4e4a-893a-2cae982a8b99.png" group-title="Eğlence",Akıllı TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:58 tvg-id="Blutvkids" tvg-name="blutv Kids" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" group-title="Çocuk",blutv Kids
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:67 tvg-id="Cartoonnetwork" tvg-name="Cartoon Network" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b9caf906-69ce-443d-b5d8-81f6c7baaad6.png" group-title="Çocuk",Cartoon Network
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+#EXTINF:85 tvg-id="Disneychannel" tvg-name="Disney Channel" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/74f2d8a4-9ba4-459e-a20a-27bd54ffc3a2.png" group-title="Çocuk",Disney Channel
+http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
+#EXTINF:93 tvg-id="Ebatvılkokul" tvg-name="EBA TV İlkokul" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/86ddd608-e9b8-403b-8777-554d58953cd2.png" group-title="Çocuk",EBA TV İlkokul
+https://mn-nl.mncdn.com/blutv_ebai2/live_720p2000000kbps/index.m3u8
+#EXTINF:94 tvg-id="Ebatvlise" tvg-name="EBA TV Lise" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/095d92e1-d1e2-48d0-aa38-235915d7293d.png" group-title="Çocuk",EBA TV Lise
+https://mn-nl.mncdn.com/blutv_ebal2/live_720p2000000kbps/index.m3u8
+#EXTINF:95 tvg-id="Ebatvortaokul" tvg-name="EBA TV Ortaokul" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6e3c8aac-deba-4451-b084-5074011a47ae.png" group-title="Çocuk",EBA TV Ortaokul
+https://mn-nl.mncdn.com/blutv_ebao2/live_720p2000000kbps/index.m3u8
+#EXTINF:158 tvg-id="Minikacocuk" tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/347a440b-4f6f-45a8-97b6-ecea89581f66.png" group-title="Çocuk",Minika Çocuk
+http://mugla.tvizlehd.com/live/minikacocuk.m3u8
+#EXTINF:159 tvg-id="Minikago" tvg-name="Minika Go" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/00af72b2-479c-4c8c-b060-0115ac028bc6.png" group-title="Çocuk",Minika Go
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+#EXTINF:160 tvg-id="Miskettv" tvg-name="Misket TV" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0ff2c160-891b-4839-b023-31e1b4435a47.gif" group-title="Özel",Misket TV
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
+#EXTINF:190 tvg-id="Rehbertv" tvg-name="Rehber TV" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7c641b30-700a-4443-9a87-7c1b1299918a.png" group-title="Dini",Rehber TV
+https://yayin30.haber100.com/live/rehbertv/chunklist_w1635219278.m3u8
+#EXTINF:191 tvg-id="Sabantv" tvg-name="Şaban TV" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title="Özel",Şaban TV
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCE1XdVHzOdMnUsUMatIzjag/live
+#EXTINF:234 tvg-id="Trtcocuk" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3e16f055-ea79-48e6-bb77-0522c680f63d.png" group-title="Çocuk",TRT Çocuk
+http://84.22.33.214/TRTCocuk/index.m3u8
