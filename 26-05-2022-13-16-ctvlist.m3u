@@ -308,8 +308,7 @@ https://hls-eu.loola.tv/hlspush/Lmcvr-Z1OoTuT.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0bf8ec6-0d67-4771-a8c8-bf4429e2a7a7.png" group-title="Özel",Yansıma Sinema
 https://hls-eu.loola.tv/hlspush/Z2pqoNJ-ZSgMq9.m3u8
 #EXTINF:-1 tvg-id="TRT1HD.tr" tvg-language="Turkish" tvg-name="TRT 1",TRT 1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2526b860-0e07-4de1-9455-1fe88f6dce5a.png" group-title="Ulusal",TRT 1
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
-
+http://sol.trtcdn.com/tv/trt1/mp4:trt1_3/playlist.m3u8
 
 #EXTINF:1 tvg-id="TRTWorld.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/df768c9f-16ee-4897-94f5-fd67ffff528e.png" group-title="World",TRT World
 http://85.187.244.105:54541
