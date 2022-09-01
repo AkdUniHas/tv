@@ -81,6 +81,8 @@ https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 $ExtFilter="live" tvg-name="50 - [TELE 1]" tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg" ,TELE 1
 https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
+#EXTINF:-1 $ExtFilter="live" tvg-name="[KRT TV]" tvg-logo="" ,KRT TV
+https://mn-nl.mncdn.com/blutv_krt/live.m3u8
 #EXTINF:-1 $ExtFilter="live" tvg-name="51 - [HALK TV]" tvg-logo="http://4.bp.blogspot.com/-ldTBFkOJt-I/Xk14FDfkCvI/AAAAAAAAYD8/YFWglX_FvOE1qhTsWQTZGE9fvpz398d-gCLcBGAsYHQ/s1600/halk.jpg" ,HALK TV
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 $ExtFilter="live" tvg-name="52 - [BEYAZ TV]" tvg-logo="http://2.bp.blogspot.com/-WIZj8EQ1Lkk/Xk12LoHPK-I/AAAAAAAAYCg/lPiAj54bJqcH7WJRWbKKgCurctUjWKt9gCLcBGAsYHQ/s1600/beyaz.jpg",BEYAZ TV
