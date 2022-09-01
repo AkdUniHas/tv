@@ -144,7 +144,7 @@ https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 $ExtFilter="live" tvg-name="81 -[MECLİS TV]" tvg-logo="http://3.bp.blogspot.com/-rWtkCanq478/VqnQNYOgYkI/AAAAAAAAPbY/SgaeXZkKzkc/s1600/trtmeclis.jpg",MECLİS TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 $ExtFilter="live" tvg-name="82 - [KRT]" tvg-logo="http://4.bp.blogspot.com/-WApL0o04I4M/VqnN-Nzsk0I/AAAAAAAAPXo/5d6hN47EtZg/s1600/krtkultur.jpg",KRT
-https://mn-nl.mncdn.com/blutv_krt/live.m3u8
+https://youtu.be/3QDiWPZ2D_k
 #EXTINF:-1 $ExtFilter="live" tvg-name="83 - [TGRT BELGESEL]" tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg",TGRT BELGESEL
 https://tv.ensonhaber.com/tv/tr//tgrtbelgesel/index.m3u8
 #EXTINF:-1 $ExtFilter="live" tvg-name="84 - [KÖY TV]" tvg-logo="http://1.bp.blogspot.com/-50e25_aaX84/VpgF0p7rdAI/AAAAAAAANoU/GyPS5OIh7Ag/s1600/koytv.jpg",KÖY TV
